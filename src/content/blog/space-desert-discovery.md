@@ -46,7 +46,7 @@ Next, I tried to list down the key concepts, challenges and user actions that th
 
 Some of those concepts start to give hints on which technical solutions should be designed such as:
 - Invite Api: Component to connect users to a game
-- Scheduling Service: Component responsible for performing an action if a user user perform an action within a certain time
+- Scheduling Service: Component for time sensitive system actions
 - Game Api: The core component that should validate user actions, persists and transform the game state
 
 It's an iterative process, so I scratched a _very_ simple data schema to help visualize the data.
